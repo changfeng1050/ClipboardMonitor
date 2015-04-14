@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ClipboardMonitor</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_start_service">Start Service</string>
+    <string name="button_stop_service">Stop Service</string>
+    <string name="button_bind_service">Bind Service</string>
+    <string name="button_unbind_service">Unbind Service</string>
+    <string name="title_activity_result">ResultActivity</string>
+    <string name="requesting_result_from_internet">正在进行在线查询，请稍候…</string>
+</resources>
